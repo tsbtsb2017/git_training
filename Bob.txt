@@ -1,0 +1,13 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is BCDA-9CD4
+
+ Directory of C:\git\git_training
+
+08/07/2019  14:14    <DIR>          .
+08/07/2019  14:14    <DIR>          ..
+08/07/2019  14:12                73 Alice.txt
+08/07/2019  14:14                 0 Bob.txt
+08/07/2019  14:12    <DIR>          img
+08/07/2019  14:12            56,030 README.md
+               3 File(s)         56,103 bytes
+               3 Dir(s)  89,797,054,464 bytes free
