@@ -4,4 +4,4 @@ Another line for Alice
 
 Change for Alice number 3 adding some text  different text being added this is the final result of the merge
 
-A change made in GitHub
+A change made in GitHub another change made to this line.
