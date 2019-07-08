@@ -3,3 +3,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Another line for Alice
 
 Change for Alice number 3 adding some text  different text being added this is the final result of the merge
+
+A change made in GitHub
